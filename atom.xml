@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fira]]></title>
+  <link href="http://FiraLin.github.com/atom.xml" rel="self"/>
+  <link href="http://FiraLin.github.com/"/>
+  <updated>2012-10-23T00:00:00+08:00</updated>
+  <id>http://FiraLin.github.com/</id>
+  <author>
+    <name><![CDATA[wǒ_is Lin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://FiraLin.github.com/blog/2012/10/24/hello-world/"/>
+    <updated>2012-10-24T00:43:00+08:00</updated>
+    <id>http://FiraLin.github.com/blog/2012/10/24/hello-world</id>
+    <content type="html"><![CDATA[<h1>牛刀小试</h1>
+
+<p>Fira的小站开张了</p>
+]]></content>
+  </entry>
+  
+</feed>
