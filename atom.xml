@@ -22,6 +22,9 @@
 Markdown Syntax. If you are seeking for English Edition
 Document. Please refer to <a href="http://daringfireball.net/projects/markdown/syntax">Markdown: Syntax</a>.</p>
 
+<!-- more -->
+
+
 <h1>Markdown: Syntax</h1>
 
 <ul>
@@ -843,7 +846,12 @@ _   底線
     <link href="http://FiraLin.github.com/blog/2012/10/29/rv-culture/"/>
     <updated>2012-10-29T19:13:00+08:00</updated>
     <id>http://FiraLin.github.com/blog/2012/10/29/rv-culture</id>
-    <content type="html"><![CDATA[<h2>房车文化 (RV Culture)</h2>
+    <content type="html"><![CDATA[<p>本文是简要介绍了房车文化与湿地文化以及它们之间的联系。</p>
+
+<!-- more -->
+
+
+<h2>房车文化 (RV Culture)</h2>
 
 <p>房车，英文全称 Recreational Vehicle，简称 RV，其雏形源于吉卜赛人的大篷车，并于</p>
 
